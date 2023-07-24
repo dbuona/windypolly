@@ -1,0 +1,116 @@
+\documentclass[12pt]{article}
+%Required: You must have these
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{natbib}
+\usepackage{lineno}
+\linenumbers
+
+\usepackage{array}
+\usepackage{amsmath}
+%\usepackage[backend=bibtex]{biblatex}
+\setkeys{Gin}{width=0.8\textwidth}
+%\setlength{\captionmargin}{30pt}
+\setlength{\abovecaptionskip}{10pt}
+\setlength{\belowcaptionskip}{10pt}
+ \topmargin -1.5cm 
+ \oddsidemargin -0.04cm 
+ \evensidemargin -0.04cm 
+ \textwidth 16.59cm
+ \textheight 21.94cm 
+ \parskip 7.2pt 
+\renewcommand{\baselinestretch}{1.2} 	
+\parindent 0pt
+
+\bibliographystyle{..//..//refs/bibstyles/amnat.bst}
+\usepackage{xr-hyper}
+\usepackage{hyperref}
+
+
+\title{Caution to the wind: global change and reproductive uncertainty for wind-pollinated plants}\\
+
+\author{Dan and Deidre}
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+\maketitle
+
+\section*{Abstract}
+
+\section*{Introduction:}
+Pollination is one of the many ecological processes being profoundly disrupted by global change\citep{Gerard:2020aa}. Pollinator declines are linked to the extirpation of numerous rare or endemic plant species, and may threaten large numerous aspects of our global food systems \citep{}. For these reasons, protecting pollinator habitat and promoting pollinator services has become a high priority for conservation research and practice  \citep{Dicks975,Kremen:2000aa}. This is---of course---a critically important research agenda; yet left out from this scientific agenda entirely are the estimated 10-20\% of terrestrial plants that are pollinated by wind \citep{Ollerton:2011aa,Friedman:2009aa,Ackerman:2000aa}. While they may represent a small taxonomic percentage of extant vascular plants, wind-pollinated species dominate the vast temperate and boreal regions of the globe and are critical for human livelihood and ecological well-being \citep{Regal:1982aa}. It is therefore critical to consider the pollination biology of these species in context of global change biology.
+
+While pollinators are declining with global change, it is true that the wind remains. This makes it tempting to think that wind-pollinated taxa might be immune to the uncertain pollination future faced by their biotically-pollinated relatives. In fact, it is likely that wind-pollination in angiosperms evolved from biotically-pollinated ancestors for reproductive assurance in times when pollinator services were unreliable \citep{Friedman:2009aa}. Some have even suggested as pollinator services continue to decline with global change, wind-pollinated species may come to dominate many ecosystems \citep{Bond:1995aa,Hoiss:2013aa}. 
+
+However, the continued reproductive success of wind-pollinated species in an era of global climate change should not be taken for granted. There are several aspects of the pollination biology of wind-pollinated species that may be vulnerable to disruptions from global change. Below we briefly review the abiotic and biotic conditions that facilitate effective and efficient wind pollination, and present current evidence of observed and predicted changes to these conditions, and discuss how the could impact the pollination ecology of wind-pollinated taxa.
+
+\section*{Conditions for effective wind pollination:}
+
+\subsection*{Abiotic:}
+
+\textbf{Wind:} Wind is the solitary vector of pollen transfer in wind-pollinated species, and moderate wind speeds are require for all stages of pollen transfer. Modeling studies indicated that wind speeds of 10-20 km/hr are necessary to facilitate pollen releases. Surface winds bring to upper atmosphere to facilitate long distance transfer. 
+
+Observed and predicted changes: Climate change is likely to alter the seasonality, directionality and strength of global patterns (). At a broad scale, global warming has been linked to “global stilling” with global wind speeds predicted to drop by as much as 10% by 2100 (IPCC), though a recent study has documented in slight global increase in wind speeds since 2010 (Zeng 2019).
+A recent study forecasting changes in wind patterns in the United States found strong regional differences in projected changes, with wind species decrease in the eastern US increase in the central US (Chen 2022).
+
+Wind directionality has also shifted in many locations and is predicted to continue to change (). Another sentence or two with a few examples.
+
+
+
+
+
+Humidity and precipitation: Pollen is generally released when atmospheric humidity is low (). Two primary explanations have been offered for this. The first is that humidity itself can damage pollen through osmotic shock (). The second reason for this, is that low humidity tends to be associated with a decreased likelihood of precipitation. Rainfall events are extremely effective at removing airborne pollen (). Through this phenomenon, known as raindrop-scavenging, precipitation can virtually eliminate all pollen from the air that it encounters ().
+
+Observed and predicted changes 
+Climate change is expected to increase the variability of spring precipitation events (). In considering the implications for wind-pollination success, shifting trends in the number precipitation days in a give region may be more important that the total amount of precipitation or extremity of each pollination event. In the US. In Europe, In China.
+
+Several studies have found negative associations between precipitation and airborne pollen counts (). A number of reports have even found that shifts in recent counts systematically correlate with changes in precipitation patterns. The strength of these trends seem to vary among species, locations, and elevations.
+
+BIOTIC
+
+Phenological synchrony: Pollen from wind-pollenated taxa is short lived--- often only viable for a number of hours to days (). As such, the timing of flowering, or floral phenology, of wind-pollinated species has evolved to be highly synchronized ().
+
+In wind-pollinated, deciduous woody plants of the temperate regions, pollen release almost always occurs in the early spring before leaf development (). While this phenological syndrome is known by many names in the literature (hysteranthy, proteranthy, protanthy, precocious flowering)() theory, modeling and empirical studies suggest that the flowering-first phenological sequence is critical for pollination efficiency and long-distance pollen transport in wind pollinated species( ).
+
+Observed and predicted changes
+Temperature is the most important driver of phenology () and several recent studies have indicated that increasing spring temperature are disrupting phenological synchrony within and among populations (). Increasing asynchrony in flowering may impact reproductive fitness by simply reducing the amount of viable pollen that arrives to receptive stigmas, but in the long term, it may also impact mating patterns and genetic structure. 
+
+Like many of their insect-pollinated relatives, female and male flowers of wind-pollinated species are often temporally separated () This phenological pattern, known as dichogamy, is a mechanism to promote out-crossing () Several studies from seed orchards have reported shifts in dichogamy associated with climate change (). If such shifts are also widespread in wild populations, primarily out-crossing taxa may experience increased self-pollination and inbreeding depression, reducing the likelihood that populations will be able to adapt in the face of novel climate exposure with climate change.
+
+When considering the relative timing between pollen dispersal and canopy closure, several observation studies indicate that for wind pollinated tree species, the time between flowering and leafout has increased in recent decades (). However, experimental evidence indicates that these trends may decelerate or even reverse as climate continues to warm, and differences between how flowers and leaves respond to cool winter temperatures become more pronounced (). 
+
+Community structure:
+Wind-pollination is most effective in open-structure communities with high densities of conspecifics which increase the likelihood that wind-bourne pollen encounters receptive stigmas rather than being intercepted by other species. 
+
+Observed and predicted changes
+It is clear that multiple stressors of global change: climate warming, biological invasions, land conversion and altered disturbance regimes are already impact the structure of ecological communities, however the direction of these change (increase or decrease in species diversity) are debated. Changes to structural diversity of ecosystems appear to vary regionally, depends on the scale of inquiry, and measure of biodiversity. Some studies indicate that these community changes have lead to the increase in plant density, especially in forest understories (), which would have negative consequences for wind pollination. Many invasive species that have establish in wind-pollinated communities tend to leaf out earlier in the season, potentially accelerating the rate of canopy closure in deciduous forest ().  A number of studies indicated that wind pollination success decreased with more diverge vegetation structure () those these impacts need to be test more broadly. 
+
+Potential Impacts:
+The potential negative impacts on wind-pollination of the observed and predicted changes to abiotic and biotic conditions described aboe ecology can be broadly grouped into three categories.
+
+Pollen limitation: Pollen limitation, defined as X, was long thought to not occur in wind-pollenated species, though several more recent studies have demonstrated it, and is now a major hypothesis invoked to explain masting in wind pollinated species. It is unclear if this change in perception is related to a change in methods or change in abiotic conditions, but many of the shifting conditions described above could increase pollen limitation. Rain drop scavaging, asynchrony and vegetation structure
+
+Gene flow: Wind speed and direction determine the rate of gene flow. Reductions in wind speed, whether due to atmospheric changes or biological ones like canopy and community structure would reduce long distance transport.
+
+Directionality is particularly troubling. Genetic rescue paragraph
+
+
+Inbreeding depression: A reduction in fitness to due continue inbreeding. Many wind pollinated species are primarily outcrossing but able to self. Increased inbreeding depression could be a result of changes to dichogamy, and reduction of transport distances due to wind change, and canopy fill.
+
+Uncertainty necessitates a research agenda:
+
+While the biotic and abiotic change describe above are already occurring, the strength and direction of these changes will vary across space in time. In our short review, we have only described environmental and ecological changes that may potentially decrease pollination success in wind-pollinated taxa---certainly there will be regions where the changing conditions described above will align in ways that increase wind pollination efficiency and fitness. In many cases, the consequences of these individual biotic and abiotic changes on wind pollination will depend on their interactive effects. For example, shifts in phenological synchrony could be exacerbated or offset by changing wind patterns or biotic homogenization of regional plant communities. The
+
+
+
+Further, some negative consequences of changing conditions could be out-weighed by gains. For example, while increased numbers spring precipitation days may increase rain-drop scavenging, the overall effect of wetter spring could facilitate an increase in pollen production, out-weighting the negative effects.
+
+
+What is clear, is that given the lack of attending wind-pollenation has historically received in the pollination biology literature, we have a very poor foundation to even begin to predict the complex, interactive effect of global change on the pollution biology of wind pollinated species.
+
+
+
+
+
+
+
+\end{document}
