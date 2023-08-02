@@ -1,0 +1,141 @@
+\begin{thebibliography}{19}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Ackerman(2000)}]{Ackerman:2000aa}
+Ackerman, J.~D. (2000).
+\newblock Abiotic pollen and pollination: ecological, functional, and
+  evolutionary perspectives.
+\newblock 222, 167--185.
+
+\bibitem[{Bond(1995)}]{Bond:1995aa}
+Bond, W.~J. (1995).
+\newblock \emph{Effects of Global Change on Plant---Animal Synchrony:
+  Implications for Pollination and Seed Dispersal in Mediterranean Habitats}.
+\newblock Springer New York, New York, NY.
+\newblock ISBN 978-1-4612-4186-7, pp. 181--202.
+\newblock \urlprefix\url{https://doi.org/10.1007/978-1-4612-4186-7_9}.
+
+\bibitem[{Bruffaerts \emph{et~al.}(2018)Bruffaerts, De~Smedt, Delcloo, Simons,
+  Hoebeke, Verstraeten, Van~Nieuwenhuyse, Packeu \&
+  Hendrickx}]{Bruffaerts:2018aa}
+Bruffaerts, N., De~Smedt, T., Delcloo, A., Simons, K., Hoebeke, L.,
+  Verstraeten, C., Van~Nieuwenhuyse, A., Packeu, A. \& Hendrickx, M. (2018).
+\newblock Comparative long-term trend analysis of daily weather conditions with
+  daily pollen concentrations in brussels, belgium.
+\newblock \emph{International Journal of Biometeorology}, 62, 483--491.
+
+\bibitem[{Dicks \emph{et~al.}(2016)Dicks, Viana, Bommarco, Brosi, Arizmendi,
+  Cunningham, Galetto, Hill, Lopes, Pires, Taki \& Potts}]{Dicks975}
+Dicks, L.~V., Viana, B., Bommarco, R., Brosi, B., Arizmendi, M. d.~C.,
+  Cunningham, S.~A., Galetto, L., Hill, R., Lopes, A.~V., Pires, C., Taki, H.
+  \& Potts, S.~G. (2016).
+\newblock Ten policies for pollinators.
+\newblock \emph{Science}, 354, 975--976.
+
+\bibitem[{Friedman \& Barrett(2009)}]{Friedman:2009aa}
+Friedman, J. \& Barrett, S. C.~H. (2009).
+\newblock Wind of change: new insights on the ecology and evolution of
+  pollination and mating in wind-pollinated plants.
+\newblock \emph{Annals of Botany}, 103, 1515--1527.
+
+\bibitem[{G{\'e}rard \emph{et~al.}(2020)G{\'e}rard, Vanderplanck, Wood \&
+  Michez}]{Gerard:2020aa}
+G{\'e}rard, M., Vanderplanck, M., Wood, T. \& Michez, D. (2020).
+\newblock Global warming and plant--pollinator mismatches.
+\newblock \emph{Emerging Topics in Life Sciences}.
+
+\bibitem[{Grewling \emph{et~al.}(2014)Grewling, Jackowiak \&
+  Smith}]{Grewling:2014aa}
+Grewling, {\L}., Jackowiak, B. \& Smith, M. (2014).
+\newblock Variations in quercus sp. pollen seasons (1996--2011) in pozna{\'n},
+  poland, in relation to meteorological parameters.
+\newblock \emph{Aerobiologia}, 30, 149--159.
+
+\bibitem[{Gross \emph{et~al.}(2019)Gross, Weber, Wolf \& Crooks}]{Gross2019}
+Gross, L., Weber, R., Wolf, M. \& Crooks, J.~L. (2019).
+\newblock The impact of weather and climate on pollen concentrations in denver,
+  colorado, 2010-2018.
+\newblock \emph{Annals of Allergy, Asthma \& Immunology}, 123, 494--502.e4.
+
+\bibitem[{Hoiss \emph{et~al.}(2013)Hoiss, Gaviria, Leing{\"a}rtner, Krauss \&
+  Steffan-Dewenter}]{Hoiss:2013aa}
+Hoiss, B., Gaviria, J., Leing{\"a}rtner, A., Krauss, J. \& Steffan-Dewenter, I.
+  (2013).
+\newblock Combined effects of climate and management on plant diversity and
+  pollination type in alpine grasslands.
+\newblock \emph{Diversity and Distributions}, 19, 386--395.
+
+\bibitem[{Kluska \emph{et~al.}(2020)Kluska, Piotrowicz \&
+  Kasprzyk}]{Kluska:2020aa}
+Kluska, K., Piotrowicz, K. \& Kasprzyk, I. (2020).
+\newblock The impact of rainfall on the diurnal patterns of atmospheric pollen
+  concentrations.
+\newblock \emph{Agricultural and Forest Meteorology}, 291, 108042.
+
+\bibitem[{Kremen \& Ricketts(2000)}]{Kremen:2000aa}
+Kremen, C. \& Ricketts, T. (2000).
+\newblock Global perspectives on pollination disruptions.
+\newblock 14, 1226--1228.
+
+\bibitem[{Niklas(1985)}]{Niklas1985}
+Niklas, K.~J. (1985).
+\newblock The aerodynamics of wind pollination.
+\newblock \emph{The Botanical Review}, 51, 328--386.
+
+\bibitem[{Ollerton \emph{et~al.}(2011)Ollerton, Winfree \&
+  Tarrant}]{Ollerton:2011aa}
+Ollerton, J., Winfree, R. \& Tarrant, S. (2011).
+\newblock How many flowering plants are pollinated by animals?
+\newblock \emph{Oikos}, 120, 321--326.
+
+\bibitem[{Pace \emph{et~al.}(2018)Pace, Boccacci, Casilli, Di~Carlo \&
+  Fattorini}]{Pace:2018aa}
+Pace, L., Boccacci, L., Casilli, M., Di~Carlo, P. \& Fattorini, S. (2018).
+\newblock Correlations between weather conditions and airborne pollen
+  concentration and diversity in a mediterranean high-altitude site disclose
+  unexpected temporal patterns.
+\newblock \emph{Aerobiologia}, 34, 75--87.
+
+\bibitem[{Regal(1982)}]{Regal:1982aa}
+Regal, P.~J. (1982).
+\newblock Pollination by wind and animals: Ecology of geographic patterns.
+\newblock 13, 497--524.
+
+\bibitem[{Stocker \emph{et~al.}(2013)Stocker, Qin, Plattner, Tignor, Allen,
+  Boschung, Nauels, Xia, Bex \& Midgley}]{IPCC2013}
+Stocker, T., Qin, D., Plattner, G.-K., Tignor, M., Allen, S., Boschung, J.,
+  Nauels, A., Xia, Y., Bex, V. \& Midgley, P. (2013).
+\newblock \emph{Climate Change 2013: The Physical Science Basis. Contribution
+  of Working Group I to the Fifth Assessment Report of the Intergovernmental
+  Panel on Climate Change}.
+\newblock IPCC, Cambridge, United Kingdom and New York, NY.
+
+\bibitem[{van~der Knaap \emph{et~al.}(2010)van~der Knaap, van Leeuwen,
+  Svitavsk{\'a}-Svobodov{\'a}, Pidek, Kvavadze, Chichinadze, Giesecke,
+  Micha{\l}Kaszewski, Oberli, Kalni{\c n}a, Pardoe, Tinner \&
+  Ammann}]{Knaap:2010aa}
+van~der Knaap, W.~O., van Leeuwen, J. F.~N., Svitavsk{\'a}-Svobodov{\'a}, H.,
+  Pidek, I.~A., Kvavadze, E., Chichinadze, M., Giesecke, T.,
+  Micha{\l}Kaszewski, B., Oberli, F., Kalni{\c n}a, L., Pardoe, H.~S., Tinner,
+  W. \& Ammann, B. (2010).
+\newblock Annual pollen traps reveal the complexity of climatic control on
+  pollen productivity in europe and the caucasus.
+\newblock \emph{Vegetation History and Archaeobotany}, 19, 285--307.
+
+\bibitem[{Whitehead(1969)}]{Whitehead1969}
+Whitehead, D.~R. (1969).
+\newblock Wind pollination in the angiosperms: Evolutionary and environmental
+  considerations.
+\newblock \emph{Evolution}, 23, 28--35.
+
+\bibitem[{Zhang \emph{et~al.}(2015)Zhang, Bielory, Mi, Cai, Robock \&
+  Georgopoulos}]{Zhang:2015}
+Zhang, Y., Bielory, L., Mi, Z., Cai, T., Robock, A. \& Georgopoulos, P. (2015).
+\newblock Allergenic pollen season variations in the past two decades under
+  changing climate in the united states.
+\newblock \emph{Global change biology}, 21, 1581--1589.
+
+\end{thebibliography}
