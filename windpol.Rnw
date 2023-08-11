@@ -57,7 +57,6 @@ Wind directional has also shifted in many locations and is predicted to continue
 
 
 
-
 \textbf{Humidity and precipitation:} Pollen is generally released when atmospheric humidity is low \citep{Niklas1985, Whitehead1969}. Two primary explanations have been offered for this. The first is that humidity itself can damage pollen through osmotic shock \citep{Niklas1985}. The second reason for this, is that low humidity tends to be associated with a decreased likelihood of precipitation. Rainfall events are extremely effective at removing airborne pollen. Through this phenomenon, known as raindrop-scavenging, precipitation can virtually eliminate all pollen from the air that it encounters \citep{Kluska:2020aa}.
 
 \textbf{Observed and predicted changes:} Climate change is expected to increase the variability of spring precipitation events \citep{IPCC2013}. In considering the implications for wind-pollination success, shifting trends in the number precipitation days in a give region may be more important that the total amount of precipitation or extremity of each pollination event. \emph{Deidre can you find a few examples? e.g. In the US... In Europe... In China....}
@@ -77,7 +76,7 @@ Like many of their insect-pollinated relatives, female and male flowers of wind-
 
 When considering the relative timing between pollen dispersal and canopy closure, several observation studies indicate that for wind pollinated tree species, the time between flowering and leafout has increased in recent decades (). However, experimental evidence indicates that these trends may decelerate or even reverse as climate continues to warm, and differences between how flowers and leaves respond to cool winter temperatures become more pronounced (). 
 
-\textbf{Community structure:}Wind-pollination is most effective in open-structure communities with high densities of conspecifics which increase the likelihood that wind-bourne pollen encounters receptive stigmas rather than being intercepted by other species. 
+\textbf{Community structure:} Wind-pollination is most effective in open-structure communities with high densities of conspecifics which increase the likelihood that wind-bourne pollen encounters receptive stigmas rather than being intercepted by other species. 
 
 \textbf{Observed and predicted changes:}It is clear that multiple stressors of global change: climate warming, biological invasions, land conversion and altered disturbance regimes are already impact the structure of ecological communities, however the direction of these change (increase or decrease in species diversity) are debated. Changes to structural diversity of ecosystems appear to vary regionally, depends on the scale of inquiry, and measure of biodiversity. Some studies indicate that these community changes have lead to the increase in plant density, especially in forest understories (), which would have negative consequences for wind pollination. Many invasive species that have establish in wind-pollinated communities tend to leaf out earlier in the season, potentially accelerating the rate of canopy closure in deciduous forest ().  A number of studies indicated that wind pollination success decreased with more diverge vegetation structure () those these impacts need to be test more broadly. 
 
