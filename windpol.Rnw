@@ -27,7 +27,7 @@
 \usepackage{hyperref}
 
 
-\title{Caution to the wind: global change and reproductive uncertainty for wind-pollinated plants}\\
+\title{Caution to the wind: global change and reproductive uncertainty for wind-pollinated plants}
 
 \author{Dan and Deirdre}
 \begin{document}
@@ -49,10 +49,10 @@ However, the continued reproductive success of wind-pollinated species in an era
 
 \textbf{Wind:} Wind is the solitary vector of pollen transfer in wind-pollinated species, and moderate wind speeds are required for all stages of pollen transfer. Modeling studies indicated that wind speeds of 10-20 km/hr are necessary to facilitate pollen releases (citation). Surface winds bring pollen to the upper atmosphere to facilitate long distance transfer. 
 
-\textbf{Observed and predicted changes:} Climate change is likely to alter the seasonality, directionality and strength of global patterns (Breslow2002, Sailor2008, McInnes2011, Hong2022). At a broad scale, global warming has been linked to “global stilling” with global wind speeds predicted to drop by as much as 10\% by 2100 \citep{IPCC2013}, though a recent study has documented in slight global increase in wind speeds since 2010 (Zeng 2019). % DLAug16: Breslow2002 - declining windspeed, Sailor2008 -seasonality, Hong2022 - direction, but for a river estuary, McInnes2011 - direction and speed global surface windd
-A recent study forecasting changes in wind patterns in the United States found strong regional differences in projected changes, with wind species decrease in the eastern US increase in the central US (Chen 2022).
+\textbf{Observed and predicted changes:} Climate change is likely to alter the seasonality, directionality and strength of global patterns \citep{Breslow2002,Sailor2008,McInnes2011,Hong2022}. At a broad scale, global warming has been linked to “global stilling” with global wind speeds predicted to drop by as much as 10\% by 2100 \citep{IPCC2013}, though a recent study has documented in slight global increase in wind speeds since 2010 \citep{Zeng2019}. % DLAug16: Breslow2002 - declining windspeed, Sailor2008 -seasonality, Hong2022 - direction, but for a river estuary, McInnes2011 - direction and speed global surface windd
+A recent study forecasting changes in wind patterns in the United States found strong regional differences in projected changes, with wind species decrease in the eastern US increase in the central US \citep{Chen2022}.
 
-Wind direction has also shifted in many locations and is predicted to continue to change (McInnes2011).  The direction of summer winds in the Pearl River estuary, China, have both declined and shifted from southwesterly to southeasterly over a fourty-two year period (Hong2022). In contrast, projections for Northern Europe suggest declines in easterly winds and greater southwesterly winds under future climates (Pryor2005).
+Wind direction has also shifted in many locations and is predicted to continue to change  \citep{McInnes2011}.  The direction of summer winds in the Pearl River estuary, China, have both declined and shifted from southwesterly to southeasterly over a forty-two year period  \citep{Hong2022}. In contrast, projections for Northern Europe suggest declines in easterly winds and greater southwesterly winds under future climates  \citep{Pryor2005}.
 
 
 
@@ -63,28 +63,29 @@ Wind direction has also shifted in many locations and is predicted to continue t
 \textbf{Observed and predicted changes:} 
 Climate change is expected to increase the variability of spring precipitation events \citep{IPCC2013}. In considering the implications for wind-pollination success, shifting trends in the number and timing of precipitation days in a give region may be more important that the total amount of precipitation or intensity of each precipitation event %DLOct14: not sure what "extremity of each pollination even" meant, did you mean the amount of precipitation or actually the amount of pollen released?
 
-The timing of spring precipitation, but not total precipitation, was broadly found to increase pollen production in woody plant species in both eastern North America and Europe (Panchen2018, Donders2014, Rojo2021). While the quantity of rain and number of rainy days overall promoted greater plant biomass in grass communities in the Malaga province of the Iberian Penisula, resulting in a delayed pollen season and more pollen released. 
+The timing of spring precipitation, but not total precipitation, was broadly found to increase pollen production in woody plant species in both eastern North America and Europe  \citep{Panchen2018,Donders2014,Rojo2021}. While the quantity of rain and number of rainy days overall promoted greater plant biomass in grass communities in the Malaga province of the Iberian Penisula, resulting in a delayed pollen season and more pollen released. 
 
 %DLAug4: I only found examples that found the timing of precip to influence the amount of pollen and the start of the pollen season, do you think there are other examples out there?
 % What do you mean by extremity of pollination event - the amount of pollen produced?
 
-In general, negative associations between precipitation and airborne pollen counts \citep{Grewling:2014aa,Gross2019,Pace:2018aa}. A number of reports have even found that shifts in recent counts systematically correlate with changes in precipitation patterns\citep{Zhang:2015, Bruffaerts:2018aa}. The strength of these trends seem to vary among species, locations, and elevations 
+In general, negative associations between precipitation and airborne pollen counts \citep{Grewling:2014aa,Gross2019,Pace:2018aa}. A number of reports have even found that shifts in recent counts systematically correlate with changes in precipitation patterns \citep{Zhang:2015, Bruffaerts:2018aa}. The strength of these trends seem to vary among species, locations, and elevations 
 \citep{Knaap:2010aa,Pace:2018aa}.
 
 
 \subsection*{Biotic}
 
-\textbf{Phenological synchrony:} Pollen from wind-pollenated taxa is short lived--- often only viable for a number of hours to days (). As such, the timing of flowering, or floral phenology, of wind-pollinated species has evolved to be highly synchronized ().
+\textbf{Phenological synchrony:} Pollen from wind-pollenated taxa is short lived--- often only viable for a number of hours to days \citep{Pacini1997,Dafni2000}. As such, the timing of flowering, or floral phenology, of wind-pollinated species has evolved to be highly synchronized ().
 
-In wind-pollinated, deciduous woody plants of the temperate regions, pollen release almost always occurs in the early spring before leaf development (). While this phenological syndrome is known by many names in the literature (hysteranthy, proteranthy, protanthy, precocious flowering)() theory, modeling and empirical studies suggest that the flowering-first phenological sequence is critical for pollination success and long-distance pollen transport in wind pollinated species( ).
+In wind-pollinated, deciduous woody plants of the temperate regions, pollen release almost always occurs in the early spring before leaf development \citep{Bolmgren2003,Willmer2011}. While this phenological syndrome is known by many names in the literature (hysteranthy, proteranthy, protanthy, precocious flowering)() theory, modeling and empirical studies suggest that the flowering-first phenological sequence is critical for pollination success and long-distance pollen transport in wind pollinated species \citep{Di-Giovanni1989,Tauber1967,Whitehead1969}.
+%Willmer2011-Pollination and Floral Ecology---Princeton University Press
 
-\textbf{Observed and predicted changes:}Temperature is the most important driver of phenology () and several recent studies have indicated that increasing spring temperature are disrupting phenological synchrony within and among populations (). %DLAug14 I am torn, this is not what my meta-analysis shows, but it isn't published yet so..
+\textbf{Observed and predicted changes:}Temperature is the most important driver of phenology () and several recent studies have indicated that increasing spring temperature are disrupting phenological synchrony within and among populations (). 
 Increasing asynchrony in flowering may impact reproductive fitness by simply reducing the amount of viable pollen that arrives to receptive stigmas, but in the long term, it may also impact mating patterns and genetic structure. 
 
-Like many of their insect-pollinated relatives, female and male flowers of wind-pollinated species are often temporally separated () This phenological pattern, known as dichogamy, is a mechanism to promote out-crossing () Several studies from seed orchards have reported shifts in dichogamy associated with climate change (). %DLAugust14: also examples in willow (Jones1997) and Carex (Stenstrom2008)
+Like many of their insect-pollinated relatives, female and male flowers of wind-pollinated species are often temporally separated \citep{Citerne2010} This phenological pattern, known as dichogamy, is a mechanism to promote out-crossing \citep{Citerne2010}. Several studies from seed orchards have reported shifts in dichogamy associated with climate change \citep{Alexander2016}. %is this paper Alexander & Woeste 2016? Also examples in willow (Jones1997) and Carex (Stenstrom2008)
 If such shifts are also widespread in wild populations, primarily out-crossing taxa may experience increased self-pollination and inbreeding depression, reducing the likelihood that populations will be able to adapt in the face of novel environments with climate change.
 
-When considering the relative timing between pollen dispersal and canopy closure, several observational studies indicate that for wind pollinated tree species, the time between flowering and leafout has increased in recent decades (). However, experimental evidence indicates that these trends may decelerate or even reverse as climate continues to warm, and differences between how flowers and leaves respond to cool winter temperatures become more pronounced (). 
+When considering the relative timing between pollen dispersal and canopy closure, several observational studies indicate that for wind pollinated tree species, the time between flowering and leafout has increased in recent decades \citep{Buonaiuto2021; Ma2021}. However, experimental evidence indicates that these trends may decelerate or even reverse as climate continues to warm, and differences between how flowers and leaves respond to cool winter temperatures become more pronounced (). 
 
 \textbf{Community structure:} Wind-pollination is most effective in open-structure communities with high densities of conspecifics which increase the likelihood that wind-bourne pollen encounters receptive stigmas rather than being intercepted by other species. 
 
